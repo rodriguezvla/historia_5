@@ -11,7 +11,8 @@ main {
 }
 
 body,html {
-  height: 100%;
+  width: 1300px;
+  justify-content: center;
 }
 
 /* Seccion Menu*/
